@@ -3,3 +3,5 @@ CT_COVID/
 
 # Ignore folder2
 CT_NonCOVID/
+
+*.pth
